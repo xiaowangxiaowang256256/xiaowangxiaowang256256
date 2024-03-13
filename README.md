@@ -10,3 +10,7 @@
 #### 我做了什么？
 
 [开源面对面](https://github.com/opensource-f2f/website) 仓库代码维护
+
+
+#### ❤️ 赞助 Sponsor
+[爱发电](https://afdian.net/a/xiaowang256)
