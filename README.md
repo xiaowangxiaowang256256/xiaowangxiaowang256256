@@ -9,7 +9,7 @@
 
 #### ✍️ 我做了什么？
 
-1、[开源面对面官网](https://github.com/opensource-f2f/website) 代码维护，[开发文档](https://shimo.im/docs/ZzkLM15j7mTG7yAQ/)
+1、[开源面对面官网](https://github.com/opensource-f2f/website) 代码共建，[开发文档](https://shimo.im/docs/ZzkLM15j7mTG7yAQ/)
 
 
 
