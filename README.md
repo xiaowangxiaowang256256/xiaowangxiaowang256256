@@ -10,10 +10,15 @@
 #### ✍️ 我做了什么？
 
 1、[开源面对面官网](https://github.com/opensource-f2f/website) 代码共建
-* [开发文档](https://shimo.im/docs/ZzkLM15j7mTG7yAQ/)
 * [issue贡献](https://github.com/opensource-f2f/website/issues/created_by/xiaowangxiaowang256256)
 * [PR贡献](https://github.com/opensource-f2f/website/pulls?q=is%3Apr+author%3Axiaowangxiaowang256256)
+* [开发文档](https://shimo.im/docs/ZzkLM15j7mTG7yAQ/)
 
+#### 📝 待办
+
+* [Proposal: add a people list page](https://github.com/opensource-f2f/website/issues/76)
+* [全文搜索功能](https://github.com/opensource-f2f/website/issues/70)
+* [Suggestion: adding a landing page](https://github.com/opensource-f2f/website/issues/54)
 
 
 #### ❤️ 赞助 Sponsor
