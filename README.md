@@ -21,5 +21,3 @@
 * [Suggestion: adding a landing page](https://github.com/opensource-f2f/website/issues/54)
 
 
-#### ❤️ 赞助 Sponsor
-[爱发电](https://afdian.net/a/xiaowang256)
