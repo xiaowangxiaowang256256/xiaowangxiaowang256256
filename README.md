@@ -1,3 +1,4 @@
+[![LinuxSuRen/open-source-best-practice](https://img.shields.io/static/v1?label=OSBP&message=%E5%BC%80%E6%BA%90%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5&color=blue)](https://github.com/LinuxSuRen/open-source-best-practice)
 #### 👨🏻‍💻 我是谁？
 
 1、我是一名前端开发者，了解《开源面对面》源于，一次前端开发中，input组件出现的bug。我通过查阅element-plus的[更新文档](https://element-plus.gitee.io/zh-CN/guide/changelog.html) ，尝试将版本升级至2.5.2后，解决了该bug。通过[@YoungDan-hero](https://github.com/YoungDan-hero)的[代码贡献](https://github.com/element-plus/element-plus/pull/15514)，解决了我的工作问题。通过回溯到上游（[element-plus](https://github.com/element-plus/element-plus)），借助上游社区的力量，来解决下游项目开发的问题。这真的是一件激动人心的事情。这是一种全新的开发体验，它给我的项目开发，提供了一个全新的视角。
